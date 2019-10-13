@@ -1,7 +1,6 @@
 {
     "name": "dylanmacalast/management-system",
     "description": "foodCodes management app",
-    "require": {},
     "require-dev": {
         "phpunit/phpunit": "^8.2"
     },
