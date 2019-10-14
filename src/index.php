@@ -1,3 +1,3 @@
 <?php
-echo "hello";
+echo "hello there from index";
 ?>
