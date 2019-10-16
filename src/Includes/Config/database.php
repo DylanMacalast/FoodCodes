@@ -19,6 +19,8 @@ $query = "SELECT * FROM users";
             $name = row['name'];
             var_dump($row);
 
+
+
         }
         echo $name;
 ?>
