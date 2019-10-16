@@ -16,7 +16,7 @@ echo "Connected successfully";
 
 $query = "SELECT * FROM users"; 
         $select_users= mysqli_query($connection, $query);
-
+var_dump(mysqli_fetch_assoc($select_users));
         while($row = mysqli_fetch_assoc($select_users)){
             $name = row['name'];
 
