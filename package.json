@@ -1,0 +1,31 @@
+{
+  "name": "ManagementSystem",
+  "version": "1.0.0",
+  "description": "FoodCodes management system",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "webpack-cli": "^3.3.10"
+  },
+  "devDependencies": {
+    "node-sass": "^4.13.0",
+    "sass-loader": "^8.0.0",
+    "webpack": "^4.41.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DylanMacalast/FoodCodes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DylanMacalast/FoodCodes/issues"
+  },
+  "homepage": "https://github.com/DylanMacalast/FoodCodes#readme"
+}
